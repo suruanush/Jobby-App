@@ -21,6 +21,9 @@ Let's build a **Jobby App** clone of Linkedin
 Authenticated Credentials:
 
 Username: henry password: henry_the_developer
+
 Username: david password: the_miller@23
+
 Username: mosh password: DevMosh22
+
 Username: rahul password: rahul@2021
